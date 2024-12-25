@@ -28,9 +28,6 @@ INSTALLED_APPS = [
     
     'app',
     'api',
-    
-    'rest_framework',
-    "corsheaders",
 ]
 
 AUTH_USER_MODEL = 'app.User'
